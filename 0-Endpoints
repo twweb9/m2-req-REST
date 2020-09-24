@@ -1,0 +1,29 @@
+Token - https://damyller.jn2.xyz/rest/all/V1/integration/admin/token
+1.1 - Create Attribute - https://damyller.jn2.xyz//rest/all/rest/V1/products/attributes
+1.2 - Create Options Attribute - https://damyller.jn2.xyz/rest/all/V1/products/attributes/color/options
+1.3 - Search All Attributes - https://damyller.jn2.xyz/rest/all/V1/products/attributes?searchCriteria[pageSize]=200
+1.4 - Search All Options Attributes - https://damyller.jn2.xyz/rest/all/V1/products/attributes/color/options
+
+2.1 - Create Category - https://damyller.jn2.xyz/rest/all/V1/categories
+2.2 - Search All Categories - https://damyller.jn2.xyz/rest/all/V1/categories/list?searchCriteria[pageSize]=200
+
+3-1-1 - Create Product - Configurable (RN -P01) - https://damyller.jn2.xyz/rest/default/V1/products
+3-1-2 - Create Product - Simple (RN -P02) - https://damyller.jn2.xyz/rest/default/V1/products
+3-1-3 - Set Attributes in Configurable (RN -P03) - https://damyller.jn2.xyz/rest/default/V1/configurable-products/TESTEAPI-Config/options
+3-1-4 - Associate products (RN -P04) - https://damyller.jn2.xyz/rest/default/V1/configurable-products/TESTEAPI-Config/child
+3-3 - Create Product Image - https://damyller.jn2.xyz/rest/default/V1/products
+3-4 - Search Products - https://damyller.jn2.xyz/rest/V1/products?searchCriteria[pageSize]=10000
+3-5 - Search all Groups Products - https://damyller.jn2.xyz/rest/all/V1/products/attribute-sets/sets/list?searchCriteria[pageSize]=100
+3-6-1 - Create Product - GROUPED (RN -P01) - https://damyller.jn2.xyz/rest/default/V1/products
+3-6-2 - Associate Product - GROUPED (RN -P02) - https://damyller.jn2.xyz/rest/default/V1/products/TESTEAPI-GROUPED/links
+
+4.1 - Create Customers - https://damyller.jn2.xyz/rest/all/V1/customers/
+4-2 - Search All Customers - https://damyller.jn2.xyz/rest/V1/customers/search?searchCriteria[sortOrders][0][field]=email&searchCriteria[sortOrders][0][direction]=asc
+
+5.1 - Update stock - https://damyller.jn2.xyz/rest/default/V1/products/testeimage/stockItems/1
+5.2 - Update Product - https://damyller.jn2.xyz/rest/default/V1/products/teste-basic-full
+5.3 - Enviando Imagem - https://damyller.jn2.xyz/rest/default/V1/products/Teste-simples-02
+
+6-1.1 - Search All Orders - https://damyller.jn2.xyz/rest/V1/orders?searchCriteria=all
+6-1.2 - Search One Order - https://damyller.jn2.xyz/rest/V1/orders/000000013
+6-2- Add comment in Orders - https://damyller.jn2.xyz/rest/V1/invoices/comments
