@@ -1,0 +1,11 @@
+{
+  "product": {
+    "sku": "TESTEAPI-GROUPED",
+    "name": "Teste Api Agrupado",
+    "attribute_set_id": 4,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "grouped",
+    "weight": "0.5"
+  }
+}

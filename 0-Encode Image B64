@@ -1,0 +1,5 @@
+<?php
+$imagedata = file_get_contents("banner3.jpg");
+             // alternatively specify an URL, if PHP settings allow
+$base64 = base64_encode($imagedata);
+echo $base64;

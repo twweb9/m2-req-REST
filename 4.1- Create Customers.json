@@ -1,0 +1,25 @@
+{
+   "customer" : {
+      "lastname" : "Testeapi2",
+      "firstname" : "api",
+      "email" : "testeapi2@teste.com",
+      "store_id": 1,
+      "website_id": 1,
+      "addresses" : [
+         {
+            "defaultBilling" : true,
+            "defaultShipping" : true,
+            "firstname" : "testeapi2",
+            "lastname" : "Api",
+            "countryId" : "BR",
+            "postcode" : "3016000",
+            "city" : "Belo Horizonte",
+            "street" : [
+               "Praça"
+            ],
+            "telephone" : "31-98555-0000"
+         }
+      ]
+   },
+   "password" : "teste123*"
+}

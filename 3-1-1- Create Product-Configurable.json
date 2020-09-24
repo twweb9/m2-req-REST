@@ -1,0 +1,11 @@
+{
+  "product": {
+    "sku": "TESTEAPI-Config",
+    "name": "Teste Api Config",
+    "attribute_set_id": 4,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "configurable",
+    "weight": "0.5"
+  }
+}

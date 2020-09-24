@@ -1,0 +1,19 @@
+{
+       "items":[
+          {
+             "sku":"TESTEAPI-GROUPED",
+             "link_type":"associated",
+             "linked_product_sku":"Teste-simples-02",
+             "linked_product_type":"simple",
+             "position":2
+          },
+          {
+             "sku":"TESTEAPI-GROUPED",
+             "link_type":"associated",
+             "linked_product_sku":"Teste-simples-01",
+             "linked_product_type":"simple",
+             "position":1
+             
+          }
+       ]
+}

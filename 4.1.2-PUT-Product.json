@@ -1,0 +1,36 @@
+{
+    "product":{
+    "sku": "teste-basic-full",
+    "name": "teste-basic-full",
+    "attribute_set_id": 4,
+    "price": 60,
+    "status": 1,
+    "visibility": 1,
+    "type_id": "simple",
+    "weight": 15,
+    "extension_attributes": {
+        "website_ids": [
+            1
+        ],
+        "category_links": [
+            {
+                "position": 0,
+                "category_id": "10"
+            },
+            {
+                "position": 0,
+                "category_id": "16"
+            },
+            {
+                "position": 0,
+                "category_id": "2"
+            }
+        ],
+        "stock_item": {
+            "stock_id": 1,
+            "qty": 90,
+            "is_in_stock": true
+        }
+    }
+}
+}

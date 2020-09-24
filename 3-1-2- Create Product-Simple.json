@@ -1,0 +1,23 @@
+{
+  "product": {
+    "sku": "Teste-simples-02",
+    "name": "Teste-02",
+    "attribute_set_id": 4,
+    "price": 25,
+    "status": 1,
+    "visibility": 1,
+    "type_id": "simple",
+    "weight": "0.5",
+
+    "custom_attributes": [
+        {
+            "attribute_code": "color",
+            "value": "5438"
+        },
+        {
+            "attribute_code": "size",
+            "value": "5432"
+        }
+    ]
+  }
+}

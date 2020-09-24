@@ -1,0 +1,45 @@
+{
+   "attribute":{
+      "is_wysiwyg_enabled":false,
+      "is_html_allowed_on_front":true,
+      "used_for_sort_by":false,
+      "is_filterable":false,
+      "is_filterable_in_search":false,
+      "is_used_in_grid":true,
+      "is_visible_in_grid":true,
+      "is_filterable_in_grid":false,
+      "position":0,
+      "apply_to":[
+         "simple",
+         "configurable",
+         "grouped",
+         "virtual"
+      ],
+      "is_searchable":null,
+      "is_visible_in_advanced_search":null,
+      "is_comparable":"true",
+      "is_used_for_promo_rules":null,
+      "is_visible_on_front":"true",
+      "used_in_product_listing":"true",
+      "is_visible":true,
+      "scope":"Store View",
+      "attribute_id":0,
+      "attribute_code":"atributo-teste",
+      "frontend_input":"select",
+      "entity_type_id":null,
+      "is_required":false,
+      "options":null,
+      "is_user_defined":true,
+      "default_frontend_label":"testeapi",
+      "frontend_labels":[
+         {
+            "storeId":0,
+            "label":"testeapi"
+         }
+      ],
+      "backend_type":null,
+      "source_model":null,
+      "is_unique":null,
+      "validation_rules":null
+   }
+}

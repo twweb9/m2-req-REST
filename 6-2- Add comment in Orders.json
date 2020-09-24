@@ -1,0 +1,9 @@
+{
+  "entity": {
+    "is_customer_notified": 0,
+    "parent_id": 0,
+    "comment": "teste comentario",
+    "is_visible_on_front": 0,
+    "entity_id": 0
+  }
+}
