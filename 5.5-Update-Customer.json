@@ -1,0 +1,36 @@
+{
+   "customer" : {
+      "id" : 71,
+      "lastname" : "Teste PUT",
+      "firstname" : "apiput",
+      "email" : "testeapi3@teste.com",
+      "store_id": 1,
+      "website_id": 1,
+      "gender": 0,
+      "taxvat": "80.225.098/0001-14",
+      "addresses" : [
+         {
+           "region": {
+               "region_code": "SP",
+               "region": "São Paulo"
+           },
+           "countryId" : "BR",
+           "postcode" : "01150-000",
+           "city" : "São Paulo",
+           "street": [
+               "Avenida londres",
+               "150",
+               "Anchieta",
+               "01"
+           ],
+            "defaultBilling" : true,
+            "defaultShipping" : true,
+            "firstname" : "testeput",
+            "lastname" : "ApiPUT",
+            "company": "testeapi PUT",
+            "vat_id": "80225098000114",
+            "telephone" : "31-98555-0000"
+         }
+      ]
+     }
+}
