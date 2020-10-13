@@ -24,6 +24,8 @@ https://host.com/rest/V1/orders?searchCriteria[filter_groups][0][filters][0][fie
 5.1 - Update stock - https://host.com/rest/default/V1/products/testeimage/stockItems/1
 5.2 - Update Product - https://host.com/rest/default/V1/products/teste-basic-full
 5.3 - Enviando Imagem - https://host.com/rest/default/V1/products/Teste-simples-02
+5.4 - Update Password - https://host.com/rest/V1/customers/me/password?customerId=83
+5.5 - Update Customer - https://host.com/rest/all/V1/customers/71
 
 6-1.1 - Search All Orders - https://host.com/rest/V1/orders?searchCriteria=all
 6-1.2 - Search One Order - https://host.com/rest/V1/orders/000000013
